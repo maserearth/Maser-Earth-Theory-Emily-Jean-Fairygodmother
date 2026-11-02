@@ -31,4 +31,4 @@ print("Calculated Lithospheric Strain-Rate Tensor:", strain_rates)
 ```
 
 ---
-#maserearth #maserearthemilyjean #browniedog #fairygodmothetemilyjean
+#maserearth #maserearthemilyjean #browniedog #fairygodmotheremilyjean
